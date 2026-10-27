@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500
+FAIL
+SUCCESS # <- Az elsődleges nem sikerült, de a másikban még mindig benne volt a torpedó.
