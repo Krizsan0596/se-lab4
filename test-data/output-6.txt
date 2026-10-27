@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500
+SUCCESS
+SUCCESS # <- A másodlagos tár üres, ezért mindkettő az elsődlegesből lőtt.
